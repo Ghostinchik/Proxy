@@ -1,0 +1,11 @@
+E:\прог\4 курс\КПЗ\Proxy\Proxy\bin\Debug\Proxy.exe.config
+E:\прог\4 курс\КПЗ\Proxy\Proxy\bin\Debug\Proxy.exe
+E:\прог\4 курс\КПЗ\Proxy\Proxy\bin\Debug\Proxy.pdb
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.Form1.resources
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.exe
+E:\прог\4 курс\КПЗ\Proxy\Proxy\obj\Debug\Proxy.pdb
